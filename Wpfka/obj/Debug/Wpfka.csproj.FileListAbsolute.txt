@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\bin\Debug\Wpfka.exe.config
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\bin\Debug\Wpfka.exe
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\bin\Debug\Wpfka.pdb
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\App.g.cs
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka_MarkupCompile.cache
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka_MarkupCompile.lref
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.g.resources
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.Properties.Resources.resources
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.csproj.GenerateResource.cache
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.exe
+C:\Users\student\Desktop\pesh\spisok\Wpfka\Wpfka\obj\Debug\Wpfka.pdb
